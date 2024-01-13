@@ -152,12 +152,7 @@ export default function AboutPage() {
             So, no matter where you come from, we will make sure you add a
             feather to your cap on the way back.
           </Typography>
-          <Typography variant="p">
-            {/* Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            non aut qui id nam libero repellat molestias, fugit voluptates alias
-            perspiciatis? Numquam ad voluptas dolores ducimus ratione doloremque
-            a fugit. pturi, recusandae fugit. */}
-          </Typography>
+          
           <Typography className="date" variant="p">
             17th Feb - 19th Feb
           </Typography>
@@ -193,12 +188,7 @@ export default function AboutPage() {
             Industrial visits are also organised by the department for making
             the students aware about the modern developments in the industries.
           </Typography>
-          <Typography variant="p">
-            {/* Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            non aut qui id nam libero repellat molestias, fugit voluptates alias
-            perspiciatis? Numquam ad voluptas dolores ducimus ratione doloremque
-            a fugit. pturi, recusandae fugit. */}
-          </Typography>
+          
         </Box>
       </Box>
       <Box className="contact">
